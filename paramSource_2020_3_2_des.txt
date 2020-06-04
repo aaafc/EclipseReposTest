@@ -1,0 +1,10 @@
+DES/ECB/PKCS5Padding
+DES/ECB/PKCS5Padding
+DES/ECB/PKCS5Padding
+DES/ECB/PKCS5Padding
+DES/ECB/PKCS5Padding
+DES/CBC/PKCS5Padding/abcdefgh
+DES/CBC/PKCS5Padding/12345678
+DES/CBC/PKCS5Padding/a1b2c3d4
+DES/CBC/PKCS5Padding/abcdefgh
+DES/CBC/PKCS5Padding/abcdefgh

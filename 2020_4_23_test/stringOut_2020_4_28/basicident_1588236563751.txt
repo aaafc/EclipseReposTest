@@ -1,0 +1,60 @@
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	256	206ms	13ms	20ms	7ms	132ms	19ms	6ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	256	52ms	13ms	12ms	5ms	7ms	12ms	4ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	384	81ms	26ms	18ms	7ms	17ms	18ms	7ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	512	106ms	40ms	23ms	9ms	32ms	22ms	9ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	640	140ms	61ms	25ms	10ms	47ms	25ms	10ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	768	204ms	98ms	43ms	13ms	76ms	43ms	12ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	896	274ms	142ms	44ms	17ms	116ms	44ms	17ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	1024	341ms	183ms	50ms	19ms	159ms	50ms	19ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	1152	419ms	244ms	60ms	27ms	204ms	60ms	27ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	1280	535ms	332ms	79ms	32ms	283ms	78ms	32ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	256	44ms	8ms	13ms	7ms	3ms	13ms	7ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	256	7ms	8ms	11ms	4ms	1ms	11ms	4ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	384	51ms	12ms	13ms	6ms	4ms	13ms	6ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	512	86ms	26ms	19ms	7ms	17ms	18ms	7ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	640	126ms	47ms	26ms	10ms	33ms	26ms	10ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	768	174ms	76ms	32ms	14ms	55ms	32ms	14ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	896	241ms	115ms	41ms	17ms	91ms	41ms	17ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	1024	304ms	156ms	48ms	19ms	126ms	48ms	19ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	1152	410ms	211ms	61ms	24ms	187ms	61ms	24ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	1280	517ms	288ms	72ms	31ms	254ms	72ms	31ms	
+

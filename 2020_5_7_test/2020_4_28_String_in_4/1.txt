@@ -1,0 +1,3 @@
+Hello world! 
+This text is for testing BasicIdent algorithm for aaafc's system 
+Refine a test with short length

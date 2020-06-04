@@ -1,0 +1,9 @@
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	512	199ms	39ms	26ms	9ms	118ms	26ms	9ms	
+
+Type	N primes	prime bit length	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	517	0ms	0ms	0ms	0ms	0ms	0ms	0ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	1024	0ms	0ms	0ms	0ms	0ms	0ms	0ms	
+

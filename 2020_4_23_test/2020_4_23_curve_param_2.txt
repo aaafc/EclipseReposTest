@@ -1,0 +1,24 @@
+#this text is for sending in the parameters for BasicIdent testing.
+#First column is for selecting the type of curve
+#Type A -> 1, Type A1 -> 2, Type E -> 4, Type F -> 5
+1	256	256
+1	256	256
+1	256	384
+1	256	512
+1	256	640
+1	256	768
+1	256	896
+1	256	1024
+1	256	1152
+1	256	1280
+2	3	127
+2	3	167
+2	3	219
+2	3	270
+2	3	365
+2	3	413
+2	3	517
+2	3	629
+2	3	737
+2	3	891
+

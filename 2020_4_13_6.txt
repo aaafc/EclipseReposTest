@@ -1,0 +1,9 @@
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	384	161ms	20ms	19ms	5ms	111ms	19ms	5ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	517	3271ms	533ms	875ms	330ms	16ms	875ms	330ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type E	160	1024	332ms	162ms	53ms	21ms	135ms	53ms	21ms	
+

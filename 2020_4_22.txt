@@ -1,0 +1,3 @@
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	256	886ms	113ms	208ms	66ms	129ms	208ms	66ms	
+

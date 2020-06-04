@@ -1,0 +1,10 @@
+setup	extract	encrypt	decrypt	EstablishPairing	EncryptPairing	DecryptPairing	
+308ms	
+44ms	
+30ms	
+11ms	
+198ms	
+30ms	
+11ms	
+
+

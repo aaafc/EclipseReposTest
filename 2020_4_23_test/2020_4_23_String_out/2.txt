@@ -1,0 +1,60 @@
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	256	215ms	15ms	28ms	9ms	112ms	28ms	9ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	256	60ms	9ms	18ms	11ms	2ms	18ms	11ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	384	80ms	18ms	21ms	6ms	8ms	20ms	6ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	512	125ms	37ms	26ms	10ms	20ms	26ms	10ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	640	185ms	60ms	46ms	15ms	42ms	46ms	15ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	768	247ms	90ms	50ms	18ms	63ms	50ms	18ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	896	333ms	132ms	63ms	23ms	97ms	63ms	23ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	1024	436ms	185ms	78ms	30ms	151ms	78ms	30ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	1152	521ms	246ms	94ms	36ms	189ms	94ms	36ms	
+
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	256	1280	651ms	317ms	115ms	60ms	255ms	115ms	60ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	127	111ms	19ms	34ms	13ms	3ms	34ms	13ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	167	199ms	34ms	54ms	23ms	2ms	54ms	23ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	219	391ms	65ms	109ms	49ms	3ms	109ms	49ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	270	659ms	109ms	184ms	68ms	4ms	184ms	68ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	365	1387ms	224ms	381ms	145ms	9ms	381ms	145ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	413	1819ms	310ms	502ms	189ms	18ms	502ms	189ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	517	3241ms	523ms	897ms	358ms	23ms	897ms	358ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	629	5344ms	871ms	1514ms	634ms	20ms	1514ms	634ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	737	8169ms	1292ms	2292ms	940ms	31ms	2292ms	940ms	
+
+Type	primes	pBitLen	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A1	3	891	13358ms	2094ms	3426ms	1235ms	53ms	3426ms	1235ms	
+

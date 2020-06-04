@@ -1,0 +1,3 @@
+Type	rbits	qbits	setup	extract	encrypt	decrypt	InitPairing	EncryptPairing	DecryptPairing	
+Type A	160	512	260ms	46ms	31ms	9ms	171ms	31ms	9ms	
+
