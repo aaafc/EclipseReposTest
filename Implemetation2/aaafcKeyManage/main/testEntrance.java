@@ -30,7 +30,7 @@ import aaafcKeyManage.SHADemo.MySHAProcessor;
 import aaafcKeyManage.UI.MainController;
 
 public class testEntrance {
-
+	// Modified text file
 	static {
 		try {
 			Security.addProvider(new BouncyCastleProvider());
